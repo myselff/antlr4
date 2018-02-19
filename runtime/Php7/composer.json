@@ -1,0 +1,7 @@
+{
+  "require": {
+    "webmozart/assert": "1.2.*",
+    "lastguest/murmurhash": "^2.0",
+    "z38/murmurhash": "^0.1.0"
+  }
+}
